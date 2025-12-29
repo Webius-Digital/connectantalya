@@ -1,0 +1,208 @@
+{
+    "HomePage": {
+        "heroTitleLine1": "TRAVEL CONNECT",
+        "heroTitleLine2": "Antalya",
+        "heroDescription": "Seyahat Endüstrisi Profesyonelleri İçin Seçkin B2B Etkinliği. Ağ Oluşturma, İlham ve Yeni Fırsatlar.",
+        "title": "TRAVEL CONNECT ANTALYA",
+        "subtitle": "Sektörün Bağlantı Noktası",
+        "hero_p": "Seyahat Endüstrisi Profesyonelleri İçin Seçkin B2B Etkinliği.",
+        "cta_invite": "DAVETİYE TALEP ET",
+        "cta_partnership": "ORTAKLIK FIRSATLARI",
+        "organizers": {
+            "title": "Organizasyon Komitesi",
+            "description": "Travel Connect Antalya, LTC Media Group ve MS Tourism ortaklığıyla düzenlenen uluslararası bir projedir."
+        },
+        "marketFocus": {
+            "badge": "Stratejik Fokus",
+            "title1": "Almanya Pazarının",
+            "title2": "Gizli Gücüyle Bağlantı Kurun",
+            "description": "Etkinliğimiz, Almanya'da faaliyet gösteren ve pazarın %8-10'unu temsil eden Rusça konuşan seyahat acentelerini Antalya'nın en seçkin otelleriyle buluşturuyor.",
+            "stat1Value": "10%",
+            "stat1Label": "Pazar Payı",
+            "stat2Value": "2000+",
+            "stat2Label": "Aktif Acente",
+            "imageCaption": "\"Kişisel toplantılar ve uzun vadeli ortaklıklar için en doğru platform.\"",
+            "imageBadge": "Travel Connect Antalya Misyonu"
+        },
+        "instagram": {
+            "title": "Keşfet: Travel Connect Deneyimi",
+            "description": "Büyük ticaret fuarlarından farklı olarak, kişisel hikayelere ve gerçek ortaklıklara odaklanıyoruz."
+        },
+        "faq": {
+            "title": "Sıkça Sorulan Sorular",
+            "q1": "Etkinlik tam olarak nerede yapılacak?",
+            "a1": "Etkinlik Antalya'nın seçkin turizm merkezi Belek'te gerçekleşecektir. Konaklama ve fuar alanı için 5 yıldızlı premium bir tesis seçilecek olup, detaylar katılımcılarımıza duyurulacaktır.",
+            "q2": "Kimler katılabilir?",
+            "a2": "Etkinliğimiz sadece seyahat acenteleri, tur operatörleri, otel temsilcileri ve havacılık sektörü profesyonellerine özeldir.",
+            "q3": "Katılım ücretli mi?",
+            "a3": "Seyahat acenteleri ve operatörler için 'Davetiye' usulü katılım sağlanmaktadır. Partnerlik ve stand başvuruları için lütfen Partnership sayfamızı ziyaret edin.",
+            "q4": "Hangi diller konuşuluyor?",
+            "a4": "Uluslararası bir etkinlik olması sebebiyle Türkçe, Rusça, Almanca ve İngilizce resmi iletişim dilleridir."
+        },
+        "finalCta": {
+            "title": "Geleceği Antalya'da Birlikte Tasarlayalım",
+            "button": "HEMEN BAŞVURUN"
+        },
+        "stats": {
+            "agencies": "Acente",
+            "partners": "İş Ortağı",
+            "participants": "Katılımcı",
+            "location": "Lüks Lokasyon"
+        }
+    },
+    "Navigation": {
+        "home": "ANA SAYFA",
+        "about": "HAKKIMIZDA",
+        "participants": "KATILIMCILAR",
+        "program": "PROGRAM",
+        "partnership": "ORTAKLIK",
+        "contact": "İLETİŞİM",
+        "requestInvitation": "DAVETİYE TALEP ET"
+    },
+    "AboutPage": {
+        "title": "Neden Travel Connect Antalya?",
+        "whatIs": {
+            "title": "Travel Connect Nedir?",
+            "p1": "Uluslararası bir etkinlik serisidir ve yalnızca seyahat acenteleri, tur operatörleri, havayolları ve konaklama partnerlerine özeldir.",
+            "p2": "Büyük ticaret fuarlarından farklı olarak, kişisel toplantılar ve uzun vadeli ortaklıklar kurmaya odaklanır."
+        },
+        "mission": {
+            "title": "Misyonumuz",
+            "item1": "Seyahat profesyonelleri için güçlü bir ağ platformu kurmak.",
+            "item2": "Yeni destinasyonlar ve ürünleri tanıtmak.",
+            "item3": "Direkt bağlantılar kurmak."
+        },
+        "value": {
+            "title": "Etkinliğin Değeri",
+            "item1Title": "Premium Format:",
+            "item1Desc": "Sadece nitelikli katılımcılar.",
+            "item2Title": "Çok Dilli:",
+            "item2Desc": "Rusça, Almanca ve İngilizce konuşan kitle."
+        }
+    },
+    "ParticipantsPage": {
+        "title": "Kimler Katılıyor?",
+        "agencies": {
+            "title": "Acenteler & Operatörler",
+            "count": "100 - 150",
+            "label": "Hedeflenen Seyahat Acentesi Sayısı",
+            "item1": "Seyahat acentesi sahipleri ve üst düzey yöneticiler",
+            "item2": "Almanya'daki Rusça konuşan acenteler (%8-10 pazar payı)"
+        },
+        "partners": {
+            "title": "Ortaklar (Tedarikçiler)",
+            "count": "~50",
+            "label": "Hedeflenen İş Ortağı Sayısı",
+            "item1": "Otel Temsilcileri & Destinasyon Yöneticileri",
+            "item2": "Havayolları & Transfer Hizmetleri",
+            "item3": "Teknoloji Sağlayıcıları"
+        },
+        "total": {
+            "label": "Toplam 300'den Fazla Katılımcı",
+            "quote": "\"Sektördeki en iyi profesyonelleri tek bir çatı altında toplayarak, kalıcı iş ilişkileri kurulmasını sağlıyoruz.\""
+        }
+    },
+    "ProgramPage": {
+        "title": "Etkinlik Programı",
+        "subtitle": "Networking, İlham ve Fırsat Dolu Üç Gün",
+        "days": {
+            "day1": "1. GÜN",
+            "day1Title": "Hoşgeldiniz & Networking",
+            "day1Event1": "Check-in & Karşılama Kokteyli",
+            "day1Event2": "Açılış Gala Yemeği",
+            "day2": "2. GÜN",
+            "day2Title": "B2B Görüşmeler & Teknik Geziler",
+            "day2Event1": "Boutique Seyahat Sergisi (Workshop)",
+            "day2Event2": "Otel İncelemeleri (Site Inspections)",
+            "day2Event3": "Özel Networking Gecesi",
+            "day3": "3. GÜN",
+            "day3Title": "Kapanış & Serbest Zaman",
+            "day3Event1": "Keynote Oturumları",
+            "day3Event2": "Kapanış Öğle Yemeği",
+            "day3Event3": "Antalya Şehir Turu (Opsiyonel)"
+        },
+        "whyApril": {
+            "title": "Neden Nisan Ayı?",
+            "item1Title": "Optimum Zamanlama",
+            "item1Desc": "Seyahat takviminde hazırlıklar için en verimli dönem.",
+            "item2Title": "Fuar Çakışmaları",
+            "item2Desc": "Büyük dünya fuarları ile çakışmaları önleyen stratejik tarih.",
+            "item3Title": "İdeal İklim",
+            "item3Desc": "Antalya'nın en konforlu bahar havasında networking keyfi."
+        }
+    },
+    "PartnershipPage": {
+        "title": "Ortaklık Paketleri",
+        "description": "Travel Connect Antalya'da markanızı öne çıkarın ve sektör liderleriyle doğrudan bağlantı kurun.",
+        "packages": {
+            "platinum": {
+                "name": "Platinum Partner",
+                "f1": "En yüksek görünürlük",
+                "f2": "Ana sahnede sunum hakkı",
+                "f3": "Özel stand alanı",
+                "f4": "10 kişilik davetli listesi"
+            },
+            "gold": {
+                "name": "Gold Partner",
+                "f1": "Yüksek marka görünürlüğü",
+                "f2": "Gala yemeği sponsorluğu",
+                "f3": "VIP stand alanı",
+                "f4": "5 kişilik davetli listesi"
+            },
+            "silver": {
+                "name": "Silver Partner",
+                "f1": "Stand alanı",
+                "f2": "Marka logolama",
+                "f3": "Networking kokteyli alanı",
+                "f4": "3 kişilik davetli listesi"
+            },
+            "bronze": {
+                "name": "Bronze Partner",
+                "f1": "Dijital platform görünürlüğü",
+                "f2": "Ortak stand alanı",
+                "f3": "1 kişilik davetli listesi"
+            }
+        },
+        "org": {
+            "title": "Organizasyon ve Sunum",
+            "description": "Bu etkinlik, seyahat sektöründeki tecrübesiyle bilinen iki büyük kuruluşu tarafından sunulmaktadır:",
+            "button": "Broşürü İndir (.PDF)"
+        }
+    },
+    "ContactPage": {
+        "title": "Bize Ulaşın",
+        "description": "Travel Connect Antalya'nın bir parçası olmak için formu doldurun veya doğrudan bizimle iletişime geçin.",
+        "info": {
+            "phone": "Telefon",
+            "email": "E-Posta",
+            "website": "Web Sitesi"
+        },
+        "form": {
+            "typeLabel": "Kayıt Türü",
+            "types": {
+                "agency": "Acente",
+                "hotel": "Otel",
+                "operator": "Operatör"
+            },
+            "nameLabel": "Ad Soyad",
+            "companyLabel": "Firma Adı",
+            "emailLabel": "E-Posta",
+            "phoneLabel": "Telefon",
+            "messageLabel": "Talebiniz / Mesajınız",
+            "messagePlaceholder": "Nasıl yardımcı olabiliriz?",
+            "submit": "MESAJI GÖNDER",
+            "success": "Talebiniz alınmıştır. Murat Durmuş en kısa sürede sizinle iletişime geçecektir."
+        }
+    },
+    "Footer": {
+        "description": "Seyahat profesyonelleri için güçlü bir ağ platformu. Yeni destinasyonlar, premium iş ortaklıkları ve sıra dışı networking deneyimleri.",
+        "orgTitle": "Organizasyon",
+        "copyright": "© 2026 TRAVEL CONNECT ANTALYA. TÜM HAKLARI SAKLIDIR.",
+        "privacy": "Gizlilik Politikası",
+        "kvkk": "KVKK Aydınlatma Metni"
+    },
+    "Header": {
+        "cta": "DAVETİYE TALEP ET"
+    }
+}
+```

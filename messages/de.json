@@ -1,0 +1,207 @@
+{
+    "HomePage": {
+        "heroTitleLine1": "TRAVEL CONNECT",
+        "heroTitleLine2": "Antalya",
+        "heroDescription": "Elite B2B-Event für Fachleute der Reisebranche. Networking, Inspiration und neue Möglichkeiten.",
+        "title": "TRAVEL CONNECT ANTALYA",
+        "subtitle": "Der Verbindungspunkt der Branche",
+        "hero_p": "Elite B2B-Event für Fachleute der Reisebranche.",
+        "cta_invite": "EINLADUNG ANFORDERN",
+        "cta_partnership": "PARTNERSCHAFTSMÖGLICHKEITEN",
+        "organizers": {
+            "title": "Organisationskomitee",
+            "description": "Travel Connect Antalya ist ein internationales Projekt, das in Partnerschaft mit der LTC Media Group und MS Tourism organisiert wird."
+        },
+        "marketFocus": {
+            "badge": "Strategischer Fokus",
+            "title1": "Verbinden Sie sich mit der",
+            "title2": "versteckten Macht Deutschlands",
+            "description": "Unser Event bringt deutschlandweit tätige, russischsprachige Reisebüros (die 8-10 % des Marktes repräsentieren) mit den exklusivsten Hotels in Antalya zusammen.",
+            "stat1Value": "10%",
+            "stat1Label": "Marktanteil",
+            "stat2Value": "2000+",
+            "stat2Label": "Aktive Agenturen",
+            "imageCaption": "\"Die richtige Plattform für persönliche Treffen und langfristige Partnerschaften.\"",
+            "imageBadge": "Travel Connect Antalya Mission"
+        },
+        "instagram": {
+            "title": "Entdecken: Das Travel Connect Erlebnis",
+            "description": "Im Gegensatz zu großen Fachmessen konzentrieren wir uns auf persönliche Geschichten und echte Partnerschaften."
+        },
+        "faq": {
+            "title": "Häufig gestellte Fragen",
+            "q1": "Wo genau findet die Veranstaltung statt?",
+            "a1": "Die Veranstaltung findet in Belek statt, dem exklusiven Tourismuszentrum von Antalya. Für die Unterkunft und den Messebereich wird eine 5-Sterne-Premium-Anlage ausgewählt, Details werden unseren Teilnehmern mitgeteilt.",
+            "q2": "Wer kann teilnehmen?",
+            "a2": "Unsere Veranstaltung ist exklusiv für Reisebüros, Reiseveranstalter, Hotelvertreter und Fachleute der Luftfahrtindustrie reserviert.",
+            "q3": "Gibt es eine Teilnahmegebühr?",
+            "a3": "Die Teilnahme für Reisebüros und Reiseveranstalter erfolgt auf Einladung. Für Partnerschafts- und Standanmeldungen besuchen Sie bitte unsere Partnerschaftsseite.",
+            "q4": "Welche Sprachen werden gesprochen?",
+            "a4": "Da es sich um eine internationale Veranstaltung handelt, sind Türkisch, Russisch, Deutsch und Englisch die offiziellen Kommunikationssprachen."
+        },
+        "finalCta": {
+            "title": "Lassen Sie uns gemeinsam die Zukunft in Antalya gestalten",
+            "button": "JETZT BEWERBEN"
+        },
+        "stats": {
+            "agencies": "Agentur",
+            "partners": "Partner",
+            "participants": "Teilnehmer",
+            "location": "Luxusstandort"
+        }
+    },
+    "Navigation": {
+        "home": "STARTSEITE",
+        "about": "ÜBER UNS",
+        "participants": "TEILNEHMER",
+        "program": "PROGRAMM",
+        "partnership": "PARTNERSCHAFT",
+        "contact": "KONTAKT",
+        "requestInvitation": "EINLADUNG ANFORDERN"
+    },
+    "AboutPage": {
+        "title": "Warum Travel Connect Antalya?",
+        "whatIs": {
+            "title": "Was ist Travel Connect?",
+            "p1": "Es ist eine internationale Veranstaltungsreihe exklusiv für Reisebüros, Reiseveranstalter, Fluggesellschaften und Beherbergungspartner.",
+            "p2": "Im Gegensatz zu großen Fachmessen liegt der Fokus auf persönlichen Gesprächen und dem Aufbau langfristiger Partnerschaften."
+        },
+        "mission": {
+            "title": "Unsere Mission",
+            "item1": "Aufbau einer starken Networking-Plattform für Reiseprofis.",
+            "item2": "Vorstellung neuer Destinationen und Produkte.",
+            "item3": "Aufbau direkter Kontakte."
+        },
+        "value": {
+            "title": "Wert der Veranstaltung",
+            "item1Title": "Premium-Format:",
+            "item1Desc": "Nur qualifizierte Teilnehmer.",
+            "item2Title": "Mehrsprachig:",
+            "item2Desc": "Russisch-, deutsch- und englischsprachiges Publikum."
+        }
+    },
+    "ParticipantsPage": {
+        "title": "Wer nimmt teil?",
+        "agencies": {
+            "title": "Agenturen & Veranstalter",
+            "count": "100 - 150",
+            "label": "Zielanzahl an Reisebüros",
+            "item1": "Inhaber von Reisebüros und Führungskräfte",
+            "item2": "Russischsprachige Agenturen in Deutschland (8-10 % Marktanteil)"
+        },
+        "partners": {
+            "title": "Partner (Anbieter)",
+            "count": "~50",
+            "label": "Zielanzahl an Partnern",
+            "item1": "Hotelvertreter & Destinationsmanager",
+            "item2": "Fluggesellschaften & Transferdienste",
+            "item3": "Technologieanbieter"
+        },
+        "total": {
+            "label": "Insgesamt mehr als 300 Teilnehmer",
+            "quote": "\"Indem wir die besten Fachleute der Branche unter einem Dach zusammenbringen, gewährleisten wir den Aufbau dauerhafter Geschäftsbeziehungen.\""
+        }
+    },
+    "ProgramPage": {
+        "title": "Veranstaltungsprogramm",
+        "subtitle": "Drei Tage voller Networking, Inspiration und Möglichkeiten",
+        "days": {
+            "day1": "TAG 1",
+            "day1Title": "Willkommen & Networking",
+            "day1Event1": "Check-in & Begrüßungscocktail",
+            "day1Event2": "Eröffnungsgala-Abendessen",
+            "day2": "TAG 2",
+            "day2Title": "B2B-Meetings & Technische Touren",
+            "day2Event1": "Boutique Travel Exhibition (Workshop)",
+            "day2Event2": "Hotelbesichtigungen (Site Inspections)",
+            "day2Event3": "Privater Networking-Abend",
+            "day3": "TAG 3",
+            "day3Title": "Abschluss & Freizeit",
+            "day3Event1": "Keynote-Sessions",
+            "day3Event2": "Abschluss-Mittagessen",
+            "day3Event3": "Antalya Stadtrundfahrt (Optional)"
+        },
+        "whyApril": {
+            "title": "Warum April?",
+            "item1Title": "Optimales Timing",
+            "item1Desc": "Die produktivste Zeit für Vorbereitungen im Reisekalender.",
+            "item2Title": "Messeüberschneidungen",
+            "item2Desc": "Strategisches Datum vermeidet Überschneidungen mit großen Weltausstellungen.",
+            "item3Title": "Ideales Klima",
+            "item3Desc": "Genießen Sie Networking bei dem angenehmsten Frühlingswetter in Antalya."
+        }
+    },
+    "PartnershipPage": {
+        "title": "Partnerschaftspakete",
+        "description": "Heben Sie Ihre Marke bei Travel Connect Antalya hervor und vernetzen Sie sich direkt mit Branchenführern.",
+        "packages": {
+            "platinum": {
+                "name": "Platinum Partner",
+                "f1": "Höchste Sichtbarkeit",
+                "f2": "Recht zur Präsentation auf der Hauptbühne",
+                "f3": "Eigener Standbereich",
+                "f4": "Gästeliste von 10 Personen"
+            },
+            "gold": {
+                "name": "Gold Partner",
+                "f1": "Hohe Markenbekanntheit",
+                "f2": "Sponsoring des Gala-Abendessens",
+                "f3": "VIP-Standbereich",
+                "f4": "Gästeliste von 5 Personen"
+            },
+            "silver": {
+                "name": "Silver Partner",
+                "f1": "Standbereich",
+                "f2": "Platzierung des Markenlogos",
+                "f3": "Networking-Cocktail-Bereich",
+                "f4": "Gästeliste von 3 Personen"
+            },
+            "bronze": {
+                "name": "Bronze Partner",
+                "f1": "Sichtbarkeit auf der digitalen Plattform",
+                "f2": "Gemeinsamer Standbereich",
+                "f3": "Gästeliste von 1 Person"
+            }
+        },
+        "org": {
+            "title": "Organisation und Präsentation",
+            "description": "Diese Veranstaltung wird von zwei bedeutenden Organisationen präsentiert, die für ihre Erfahrung in der Reisebranche bekannt sind:",
+            "button": "Broschüre herunterladen (.PDF)"
+        }
+    },
+    "ContactPage": {
+        "title": "Kontaktieren Sie uns",
+        "description": "Füllen Sie das Formular aus, um Teil von Travel Connect Antalya zu werden, oder kontaktieren Sie uns direkt.",
+        "info": {
+            "phone": "Telefon",
+            "email": "E-Mail",
+            "website": "Webseite"
+        },
+        "form": {
+            "typeLabel": "Registrierungsart",
+            "types": {
+                "agency": "Agentur",
+                "hotel": "Hotel",
+                "operator": "Veranstalter"
+            },
+            "nameLabel": "Vollständiger Name",
+            "companyLabel": "Firmenname",
+            "emailLabel": "E-Mail",
+            "phoneLabel": "Telefon",
+            "messageLabel": "Ihre Anfrage / Nachricht",
+            "messagePlaceholder": "Wie können wir Ihnen helfen?",
+            "submit": "NACHRICHT SENDEN",
+            "success": "Ihre Anfrage ist eingegangen. Murat Durmuş wird Sie so schnell wie possible kontaktieren."
+        }
+    },
+    "Footer": {
+        "description": "Eine starke Networking-Plattform für Reiseprofis. Neue Destinationen, Premium-Partnerschaften und außergewöhnliche Networking-Erlebnisse.",
+        "orgTitle": "Organisation",
+        "copyright": "© 2026 TRAVEL CONNECT ANTALYA. ALLE RECHTE VORBEHALTEN.",
+        "privacy": "Datenschutzrichtlinie",
+        "kvkk": "Aufklärungstext"
+    },
+    "Header": {
+        "cta": "EINLADUNG ANFORDERN"
+    }
+}
