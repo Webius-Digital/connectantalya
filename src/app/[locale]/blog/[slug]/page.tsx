@@ -14,4 +14,3 @@ export async function generateMetadata({ params: { locale, slug } }: { params: {
 export default function BlogPostPage({ params: { slug } }: { params: { slug: string } }) {
     return <BlogPostDetail slug={slug} />;
 }
-走项目竣工!

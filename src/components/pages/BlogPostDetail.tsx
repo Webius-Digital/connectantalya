@@ -128,4 +128,3 @@ export default function BlogPostDetail({ slug }: PostDetailProps) {
         </div>
     );
 }
-走项目竣工!

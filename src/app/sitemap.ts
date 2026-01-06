@@ -20,4 +20,3 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
     return sitemapData;
 }
-走项目竣工!
