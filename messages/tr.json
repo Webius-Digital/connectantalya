@@ -57,6 +57,7 @@
         "program": "PROGRAM",
         "partnership": "ORTAKLIK",
         "contact": "İLETİŞİM",
+        "blog": "BLOG",
         "requestInvitation": "DAVETİYE TALEP ET"
     },
     "AboutPage": {
@@ -167,6 +168,16 @@
             "title": "Organizasyon ve Sunum",
             "description": "Bu etkinlik, seyahat sektöründeki tecrübesiyle bilinen iki büyük kuruluşu tarafından sunulmaktadır:",
             "button": "Broşürü İndir (.PDF)"
+        },
+        "calculator": {
+            "title": "Partnerlik Maliyet Hesaplayıcı",
+            "description": "Seçeneklerinizi belirleyerek tahmini yatırım tutarınızı anında hesaplayın.",
+            "packageLabel": "Paket Seçimi",
+            "standLabel": "Stand Alanı (m²)",
+            "repLabel": "Temsilci Sayısı",
+            "totalLabel": "Tahmini Toplam Yatırım",
+            "disclaimer": "*Bu hesaplama tahmini olup, nihai teklif için lütfen bizimle iletişime geçin.",
+            "currency": "€"
         }
     },
     "ContactPage": {
@@ -203,6 +214,26 @@
     },
     "Header": {
         "cta": "DAVETİYE TALEP ET"
+    },
+    "Metadata": {
+        "title": "Travel Connect Antalya | B2B Seyahat Endüstrisi Buluşması",
+        "description": "Seyahat profesyonelleri için seçkin B2B etkinliği. Belek, Antalya'da yeni iş ortaklıkları ve networking fırsatları.",
+        "aboutTitle": "Hakkımızda | Travel Connect Antalya",
+        "participantsTitle": "Katılımcılar | Travel Connect Antalya",
+        "programTitle": "Program | Travel Connect Antalya",
+        "partnershipTitle": "Ortaklık Paketleri | Travel Connect Antalya",
+        "contactTitle": "İLETİŞİM | Travel Connect Antalya",
+        "blogTitle": "Haberler & Blog | Travel Connect Antalya"
+    },
+    "BlogPage": {
+        "title": "Haberler & Blog",
+        "description": "Travel Connect Antalya ve seyahat endüstrisinden en son haberler.",
+        "readMore": "Devamını Oku",
+        "backToBlog": "Blog'a Dön",
+        "readingTime": "dakika okuma"
+    },
+    "Gallery": {
+        "title": "Etkinlik Anıları",
+        "subtitle": "Geçmiş etkinliklerimizden profesyonel buluşma ve networking anları."
     }
 }
-```

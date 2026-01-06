@@ -57,6 +57,7 @@
         "program": "ПРОГРАММА",
         "partnership": "ПАРТНЕРСТВО",
         "contact": "КОНТАКТЫ",
+        "blog": "БЛОГ",
         "requestInvitation": "ЗАПРОСИТЬ ПРИГЛАШЕНИЕ"
     },
     "AboutPage": {
@@ -167,6 +168,16 @@
             "title": "Организация и презентация",
             "description": "Это мероприятие представлено двумя крупными организациями, известными своим опытом в туристической индустрии:",
             "button": "Скачать брошюру (.PDF)"
+        },
+        "calculator": {
+            "title": "Калькулятор стоимости партнерства",
+            "description": "Мгновенно рассчитайте предполагаемую сумму инвестиций, выбрав подходящие опции.",
+            "packageLabel": "Выбор пакета",
+            "standLabel": "Площадь стенда (м²)",
+            "repLabel": "Количество представителей",
+            "totalLabel": "Ориентировочный объем инвестиций",
+            "disclaimer": "*Данный расчет является предварительным, для получения окончательного предложения свяжитесь с нами.",
+            "currency": "€"
         }
     },
     "ContactPage": {
@@ -203,5 +214,26 @@
     },
     "Header": {
         "cta": "ЗАПРОСИТЬ ПРИГЛАШЕНИЕ"
+    },
+    "Metadata": {
+        "title": "Travel Connect Antalya | B2B Встреча Индустрии Туризма",
+        "description": "Эксклюзивное B2B мероприятие для профессионалов туризма. Новые партнерства и возможности нетворкинга в Белеке, Анталья.",
+        "aboutTitle": "О нас | Travel Connect Antalya",
+        "participantsTitle": "Участники | Travel Connect Antalya",
+        "programTitle": "Программа | Travel Connect Antalya",
+        "partnershipTitle": "Партнерские пакеты | Travel Connect Antalya",
+        "contactTitle": "Контакты | Travel Connect Antalya",
+        "blogTitle": "Новости и Блог | Travel Connect Antalya"
+    },
+    "BlogPage": {
+        "title": "Новости и Блог",
+        "description": "Последние обновления от Travel Connect Antalya и индустрии туризма.",
+        "readMore": "Читать далее",
+        "backToBlog": "Назад в блог",
+        "readingTime": "мин чтения"
+    },
+    "Gallery": {
+        "title": "Моменты Мероприятий",
+        "subtitle": "Профессиональные нетворкинг-моменты с наших прошлых мероприятий."
     }
 }

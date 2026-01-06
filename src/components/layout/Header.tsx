@@ -6,6 +6,8 @@ import { useTranslations, useLocale } from "next-intl";
 import { Link, usePathname, useRouter } from "@/i18n/routing";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
+import { Logo } from "@/components/ui/Logo";
+import { ThemeToggle } from "@/components/ui/ThemeToggle";
 
 const navItems = [
     { labelKey: "home", href: "/" },
@@ -13,6 +15,7 @@ const navItems = [
     { labelKey: "participants", href: "/participants" },
     { labelKey: "program", href: "/program" },
     { labelKey: "partnership", href: "/partnership" },
+    { labelKey: "blog", href: "/blog" },
     { labelKey: "contact", href: "/contact" },
 ];
 
@@ -29,32 +32,40 @@ export function Header() {
     };
 
     return (
-        <header className="fixed top-0 left-0 right-0 z-50 glass">
+        <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 sm:bg-background/40 backdrop-blur-xl border-b border-border/50 transition-colors duration-300">
             <div className="container mx-auto px-4">
                 <div className="flex items-center justify-between h-20">
-                    <Link href="/" className="flex items-center space-x-2">
-                        <div className="w-10 h-10 rounded-xl instagram-gradient animate-pulse" />
+                    <Link href="/" className="flex items-center space-x-2 group">
+                        <Logo />
                         <span className="text-xl font-bold tracking-tighter">
-                            TRAVEL <span className="text-primary tracking-normal">CONNECT</span>
+                            TRAVEL <span className="text-primary tracking-normal group-hover:tracking-widest transition-all duration-500">CONNECT</span>
                         </span>
                     </Link>
 
-                    <nav className="hidden sm:flex items-center space-x-8">
-                        {navItems.map((item) => (
-                            <Link
-                                key={item.href}
-                                href={item.href as any}
-                                className={cn(
-                                    "text-sm font-semibold transition-colors hover:text-primary",
-                                    pathname === item.href ? "text-primary" : "text-foreground/80"
-                                )}
-                            >
-                                {t(item.labelKey)}
-                            </Link>
-                        ))}
-                        <div className="relative group">
+                    <nav className="flex items-center space-x-4 sm:space-x-8">
+                        {/* Desktop Nav */}
+                        <div className="hidden sm:flex items-center space-x-8 mr-4">
+                            {navItems.map((item) => (
+                                <Link
+                                    key={item.href}
+                                    href={item.href as any}
+                                    className={cn(
+                                        "text-sm font-semibold transition-colors hover:text-primary",
+                                        pathname === item.href ? "text-primary" : "text-foreground/80"
+                                    )}
+                                >
+                                    {t(item.labelKey)}
+                                </Link>
+                            ))}
+                        </div>
+
+                        {/* Theme Toggle */}
+                        <ThemeToggle />
+
+                        {/* Language Switcher (Mobile & Desktop) */}
+                        <div className="relative">
                             <button
-                                className="flex items-center space-x-2 text-xs font-bold hover:text-primary transition-colors uppercase"
+                                className="flex items-center space-x-2 text-xs font-bold hover:text-primary transition-colors uppercase py-2 px-3 rounded-xl bg-white/5 sm:bg-transparent"
                                 onClick={() => setIsLangOpen(!isLangOpen)}
                             >
                                 <Globe size={14} />
@@ -80,7 +91,7 @@ export function Header() {
                             )}
                         </div>
 
-                        <Button size="sm" className="font-bold rounded-xl h-10 px-6">
+                        <Button size="sm" className="hidden sm:flex font-bold rounded-xl h-10 px-6">
                             {t("requestInvitation")}
                         </Button>
                     </nav>

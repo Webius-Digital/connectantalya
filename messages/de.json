@@ -37,7 +37,7 @@
             "q3": "Gibt es eine Teilnahmegebühr?",
             "a3": "Die Teilnahme für Reisebüros und Reiseveranstalter erfolgt auf Einladung. Für Partnerschafts- und Standanmeldungen besuchen Sie bitte unsere Partnerschaftsseite.",
             "q4": "Welche Sprachen werden gesprochen?",
-            "a4": "Da es sich um eine internationale Veranstaltung handelt, sind Türkisch, Russisch, Deutsch und Englisch die offiziellen Kommunikationssprachen."
+            "a4": "Da es sich um eine internationale Veranstaltung handelt, sind Türkisch, Rusisch, Deutsch und Englisch die offiziellen Kommunikationssprachen."
         },
         "finalCta": {
             "title": "Lassen Sie uns gemeinsam die Zukunft in Antalya gestalten",
@@ -57,6 +57,7 @@
         "program": "PROGRAMM",
         "partnership": "PARTNERSCHAFT",
         "contact": "KONTAKT",
+        "blog": "BLOG",
         "requestInvitation": "EINLADUNG ANFORDERN"
     },
     "AboutPage": {
@@ -165,8 +166,18 @@
         },
         "org": {
             "title": "Organisation und Präsentation",
-            "description": "Diese Veranstaltung wird von zwei bedeutenden Organisationen präsentiert, die für ihre Erfahrung in der Reisebranche bekannt sind:",
+            "description": "Diese Veranstaltung wird von zwei großen Organisationen präsentiert, die für ihre Erfahrung in der Reisebranche bekannt sind:",
             "button": "Broschüre herunterladen (.PDF)"
+        },
+        "calculator": {
+            "title": "Partnerschafts-Kostenrechner",
+            "description": "Berechnen Sie Ihre geschätzte Investition sofort, indem Sie Ihre Optionen auswählen.",
+            "packageLabel": "Paketauswahl",
+            "standLabel": "Standfläche (m²)",
+            "repLabel": "Anzahl der Vertreter",
+            "totalLabel": "Geschätzte Gesamtinvestition",
+            "disclaimer": "*Diese Berechnung ist eine Schätzung, bitte kontaktieren Sie uns für ein endgültiges Angebot.",
+            "currency": "€"
         }
     },
     "ContactPage": {
@@ -203,5 +214,26 @@
     },
     "Header": {
         "cta": "EINLADUNG ANFORDERN"
+    },
+    "Metadata": {
+        "title": "Travel Connect Antalya | B2B Reiseindustrie-Treffen",
+        "description": "Exklusive B2B-Veranstaltung für Reiseprofis. Neue Partnerschaften und Networking-Möglichkeiten in Belek, Antalya.",
+        "aboutTitle": "Über uns | Travel Connect Antalya",
+        "participantsTitle": "Teilnehmer | Travel Connect Antalya",
+        "programTitle": "Programm | Travel Connect Antalya",
+        "partnershipTitle": "Partnerschaftspakete | Travel Connect Antalya",
+        "contactTitle": "Kontakt | Travel Connect Antalya",
+        "blogTitle": "News & Blog | Travel Connect Antalya"
+    },
+    "BlogPage": {
+        "title": "News & Blog",
+        "description": "Aktuelle Nachrichten von Travel Connect Antalya und der Reisebranche.",
+        "readMore": "Weiterlesen",
+        "backToBlog": "Zurück zum Blog",
+        "readingTime": "Min. Lesezeit"
+    },
+    "Gallery": {
+        "title": "Veranstaltungs-Highlights",
+        "subtitle": "Professionelle Networking-Momente von unseren vergangenen Veranstaltungen."
     }
 }

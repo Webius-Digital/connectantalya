@@ -57,6 +57,7 @@
         "program": "PROGRAM",
         "partnership": "PARTNERSHIP",
         "contact": "CONTACT",
+        "blog": "BLOG",
         "requestInvitation": "REQUEST INVITATION"
     },
     "AboutPage": {
@@ -167,6 +168,16 @@
             "title": "Organization and Presentation",
             "description": "This event is presented by two major organizations known for their experience in the travel industry:",
             "button": "Download Brochure (.PDF)"
+        },
+        "calculator": {
+            "title": "Partnership Cost Calculator",
+            "description": "Calculate your estimated investment immediately by selecting your options.",
+            "packageLabel": "Package Selection",
+            "standLabel": "Stand Area (m²)",
+            "repLabel": "Number of Representatives",
+            "totalLabel": "Estimated Total Investment",
+            "disclaimer": "*This calculation is an estimate, please contact us for a final quote.",
+            "currency": "€"
         }
     },
     "ContactPage": {
@@ -203,5 +214,26 @@
     },
     "Header": {
         "cta": "REQUEST INVITATION"
+    },
+    "Metadata": {
+        "title": "Travel Connect Antalya | B2B Travel Industry Meeting",
+        "description": "Exclusive B2B event for travel professionals. New partnerships and networking opportunities in Belek, Antalya.",
+        "aboutTitle": "About Us | Travel Connect Antalya",
+        "participantsTitle": "Participants | Travel Connect Antalya",
+        "programTitle": "Program | Travel Connect Antalya",
+        "partnershipTitle": "Partnership Packages | Travel Connect Antalya",
+        "contactTitle": "Contact | Travel Connect Antalya",
+        "blogTitle": "News & Blog | Travel Connect Antalya"
+    },
+    "BlogPage": {
+        "title": "News & Blog",
+        "description": "Latest updates from Travel Connect Antalya and the travel industry.",
+        "readMore": "Read More",
+        "backToBlog": "Back to Blog",
+        "readingTime": "min read"
+    },
+    "Gallery": {
+        "title": "Event Highlights",
+        "subtitle": "Professional networking moments from our past events."
     }
 }

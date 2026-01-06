@@ -5,15 +5,21 @@ import { Header } from "@/components/layout/Header";
 import { BottomNav } from "@/components/layout/BottomNav";
 import { Footer } from "@/components/layout/Footer";
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
+import { getMessages, getTranslations } from 'next-intl/server';
+import { ThemeProvider } from "@/components/providers/ThemeProvider";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const outfit = Outfit({ subsets: ["latin"], variable: "--font-outfit" });
 
-export const metadata: Metadata = {
-  title: "Travel Connect Antalya | Sektörün Bağlantı Noktası",
-  description: "Seyahat Endüstrisi Profesyonelleri İçin Seçkin B2B Etkinliği. 16-19 Nisan 2026, Antalya/Belek.",
-};
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: 'Metadata' });
+
+  return {
+    title: t('title'),
+    description: t('description'),
+  };
+}
 
 export default async function RootLayout({
   children,
@@ -30,14 +36,16 @@ export default async function RootLayout({
       <body
         className={`${inter.variable} ${outfit.variable} font-inter antialiased overflow-x-hidden`}
       >
-        <NextIntlClientProvider messages={messages} locale={locale}>
-          <Header />
-          <main className="min-h-screen pt-20 pb-20 sm:pb-0">
-            {children}
-          </main>
-          <Footer />
-          <BottomNav />
-        </NextIntlClientProvider>
+        <ThemeProvider>
+          <NextIntlClientProvider messages={messages} locale={locale}>
+            <Header />
+            <main className="min-h-screen pt-20 pb-20 sm:pb-0">
+              {children}
+            </main>
+            <Footer />
+            <BottomNav />
+          </NextIntlClientProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

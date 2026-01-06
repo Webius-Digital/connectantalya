@@ -3,7 +3,7 @@
 import { Instagram, Send, Mail, Phone, ExternalLink } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/routing";
-
+import { Logo } from "@/components/ui/Logo";
 export function Footer() {
     const navT = useTranslations("Navigation");
     const footerT = useTranslations("Footer");
@@ -13,10 +13,10 @@ export function Footer() {
             <div className="container mx-auto px-4">
                 <div className="grid md:grid-cols-4 gap-12 mb-16">
                     <div className="col-span-2">
-                        <Link href="/" className="flex items-center space-x-2 mb-6">
-                            <div className="w-8 h-8 rounded-lg instagram-gradient" />
+                        <Link href="/" className="flex items-center space-x-2 mb-6 group">
+                            <Logo />
                             <span className="text-xl font-bold tracking-tighter">
-                                TRAVEL <span className="text-primary tracking-normal font-outfit">CONNECT</span>
+                                TRAVEL <span className="text-primary tracking-normal font-outfit group-hover:tracking-widest transition-all duration-500">CONNECT</span>
                             </span>
                         </Link>
                         <p className="text-muted-foreground text-sm max-w-sm mb-8">
