@@ -60,7 +60,7 @@ export default function ContactContent() {
                             <div>
                                 <div className="text-sm text-muted-foreground font-bold uppercase tracking-widest mb-1">{t('info.phone')}</div>
                                 <div className="text-xl font-bold">Murat Durmuş</div>
-                                <a href="tel:+905555555555" className="text-lg opacity-80 hover:text-primary transition-colors tracking-tight font-mono">+90 555 555 55 55</a>
+                                <a href="tel:+31618999360" className="text-lg opacity-80 hover:text-primary transition-colors tracking-tight font-mono">+31 6 18999360</a>
                             </div>
                         </div>
 
