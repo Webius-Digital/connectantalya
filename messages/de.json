@@ -2,6 +2,7 @@
     "HomePage": {
         "heroTitleLine1": "TRAVEL CONNECT",
         "heroTitleLine2": "Antalya",
+        "heroDate": "5.–8. November 2026 // Antalya",
         "heroDescription": "Elite B2B-Event für Fachleute der Reisebranche. Networking, Inspiration und neue Möglichkeiten.",
         "title": "TRAVEL CONNECT ANTALYA",
         "subtitle": "Der Verbindungspunkt der Branche",
@@ -31,7 +32,7 @@
         "faq": {
             "title": "Häufig gestellte Fragen",
             "q1": "Wo genau findet die Veranstaltung statt?",
-            "a1": "Die Veranstaltung findet in Belek statt, dem exklusiven Tourismuszentrum von Antalya. Für die Unterkunft und den Messebereich wird eine 5-Sterne-Premium-Anlage ausgewählt, Details werden unseren Teilnehmern mitgeteilt.",
+            "a1": "Die Veranstaltung findet in Antalya statt. Für die Unterkunft und den Messebereich wird eine 5-Sterne-Premium-Anlage ausgewählt, Details werden unseren Teilnehmern mitgeteilt.",
             "q2": "Wer kann teilnehmen?",
             "a2": "Unsere Veranstaltung ist exklusiv für Reisebüros, Reiseveranstalter, Hotelvertreter und Fachleute der Luftfahrtindustrie reserviert.",
             "q3": "Gibt es eine Teilnahmegebühr?",
@@ -122,14 +123,14 @@
             "day3Event2": "Abschluss-Mittagessen",
             "day3Event3": "Antalya Stadtrundfahrt (Optional)"
         },
-        "whyApril": {
-            "title": "Warum April?",
+        "whyNovember": {
+            "title": "Warum November?",
             "item1Title": "Optimales Timing",
-            "item1Desc": "Die produktivste Zeit für Vorbereitungen im Reisekalender.",
+            "item1Desc": "Die produktivste Zeit für die Vorbereitungen der nächsten Saison im Reisekalender.",
             "item2Title": "Messeüberschneidungen",
             "item2Desc": "Strategisches Datum vermeidet Überschneidungen mit großen Weltausstellungen.",
             "item3Title": "Ideales Klima",
-            "item3Desc": "Genießen Sie Networking bei dem angenehmsten Wetter in Antalya."
+            "item3Desc": "Genießen Sie Networking bei mildem Wetter in Antalya."
         }
     },
     "PartnershipPage": {
@@ -217,7 +218,7 @@
     },
     "Metadata": {
         "title": "Travel Connect Antalya | B2B Reiseindustrie-Treffen",
-        "description": "Exklusive B2B-Veranstaltung für Reiseprofis. Neue Partnerschaften und Networking-Möglichkeiten in Belek, Antalya.",
+        "description": "Exklusive B2B-Veranstaltung für Reiseprofis. Neue Partnerschaften und Networking-Möglichkeiten in Antalya, 5.–8. November 2026.",
         "aboutTitle": "Über uns | Travel Connect Antalya",
         "participantsTitle": "Teilnehmer | Travel Connect Antalya",
         "programTitle": "Programm | Travel Connect Antalya",

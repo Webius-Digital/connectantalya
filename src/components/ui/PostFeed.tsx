@@ -155,7 +155,7 @@ const mockPosts: PostProps[] = [
         src: "https://v1.pinimg.com/videos/mc/720p/f1/63/1c/f1631cda2a3666f0e9b936eb8b71d9d5.mp4",
         thumbnail: "https://images.unsplash.com/photo-1540339832862-47459980783f?q=80&w=1000&auto=format&fit=crop",
         author: "MS Tourism",
-        caption: "Antalya'nın kalbinde B2B zirvesine hazır olun. #TravelConnectAntalya #Belek2026",
+        caption: "Antalya'nın kalbinde B2B zirvesine hazır olun. #TravelConnectAntalya #Antalya2026",
         views: 1240,
         priority: true,
     },

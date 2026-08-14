@@ -50,7 +50,7 @@ export function Footer() {
                                 <div className="text-xs font-bold text-muted-foreground mb-1 uppercase">MS Tourism</div>
                                 <div className="text-sm font-semibold">Murat Durmuş</div>
                                 <Link href="tel:+31618999360" className="text-xs opacity-60 hover:text-primary transition-colors">+31 6 18999360</Link>
-                                <div className="text-xs opacity-60">murat@connectantalya.com</div>
+                                <Link href="mailto:murat@mstourism.nl" className="text-xs opacity-60 hover:text-primary transition-colors">murat@mstourism.nl</Link>
                             </div>
                             <div>
                                 <div className="text-xs font-bold text-muted-foreground mb-1 uppercase">LTC Media Group</div>

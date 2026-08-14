@@ -7,6 +7,9 @@ import { PostFeed } from "@/components/ui/PostFeed";
 import { EventGallery } from "@/components/ui/EventGallery";
 import { useTranslations } from "next-intl";
 
+// Set to true to show the hero trailer and Instagram video placeholders again.
+const SHOW_VIDEO_PLACEHOLDERS = false;
+
 export default function HomeContent() {
     const t = useTranslations("HomePage");
 
@@ -33,7 +36,7 @@ export default function HomeContent() {
                     >
                         <span className="w-2 h-2 rounded-full bg-primary animate-ping" />
                         <span className="text-xs font-bold tracking-[0.2em] uppercase opacity-90 text-primary">
-                            16-19 Nisan 2026 // Antalya
+                            {t('heroDate')}
                         </span>
                     </motion.div>
 
@@ -57,7 +60,7 @@ export default function HomeContent() {
                     </div>
                 </motion.div>
 
-                {/* Abstract Video/Image Mockup for Premium Feel */}
+                {SHOW_VIDEO_PLACEHOLDERS && (
                 <motion.div
                     initial={{ opacity: 0, scale: 0.95, y: 40 }}
                     animate={{ opacity: 1, scale: 1, y: 0 }}
@@ -82,6 +85,7 @@ export default function HomeContent() {
                         <span className="text-white font-bold tracking-widest text-sm uppercase">Etkinlik Fragmanı</span>
                     </div>
                 </motion.div>
+                )}
             </section>
 
             {/* Featured Organizers */}
@@ -160,7 +164,7 @@ export default function HomeContent() {
                 </div>
             </section>
 
-            {/* Instagram Feed Section */}
+            {SHOW_VIDEO_PLACEHOLDERS && (
             <section className="w-full py-24 bg-background">
                 <div className="container mx-auto px-4 max-w-4xl text-center mb-16">
                     <h2 className="text-3xl md:text-5xl font-bold font-outfit tracking-tighter mb-4">
@@ -172,6 +176,7 @@ export default function HomeContent() {
                 </div>
                 <PostFeed />
             </section>
+            )}
 
             {/* Event Gallery Section */}
             <EventGallery limit={6} />

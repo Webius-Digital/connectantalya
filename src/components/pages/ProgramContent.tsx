@@ -80,19 +80,19 @@ export default function ProgramContent() {
                 </div>
 
                 <div className="mt-20 glass p-10 rounded-3xl border-primary/20 bg-primary/5">
-                    <h3 className="text-2xl font-bold mb-6 font-outfit">{t('whyApril.title')}</h3>
+                    <h3 className="text-2xl font-bold mb-6 font-outfit">{t('whyNovember.title')}</h3>
                     <ul className="grid md:grid-cols-3 gap-8">
                         <li className="space-y-2">
-                            <div className="font-bold text-primary">{t('whyApril.item1Title')}</div>
-                            <p className="text-sm text-muted-foreground">{t('whyApril.item1Desc')}</p>
+                            <div className="font-bold text-primary">{t('whyNovember.item1Title')}</div>
+                            <p className="text-sm text-muted-foreground">{t('whyNovember.item1Desc')}</p>
                         </li>
                         <li className="space-y-2">
-                            <div className="font-bold text-primary">{t('whyApril.item2Title')}</div>
-                            <p className="text-sm text-muted-foreground">{t('whyApril.item2Desc')}</p>
+                            <div className="font-bold text-primary">{t('whyNovember.item2Title')}</div>
+                            <p className="text-sm text-muted-foreground">{t('whyNovember.item2Desc')}</p>
                         </li>
                         <li className="space-y-2">
-                            <div className="font-bold text-primary">{t('whyApril.item3Title')}</div>
-                            <p className="text-sm text-muted-foreground">{t('whyApril.item3Desc')}</p>
+                            <div className="font-bold text-primary">{t('whyNovember.item3Title')}</div>
+                            <p className="text-sm text-muted-foreground">{t('whyNovember.item3Desc')}</p>
                         </li>
                     </ul>
                 </div>

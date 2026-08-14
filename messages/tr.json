@@ -2,6 +2,7 @@
     "HomePage": {
         "heroTitleLine1": "TRAVEL CONNECT",
         "heroTitleLine2": "Antalya",
+        "heroDate": "5-8 Kasım 2026 // Antalya",
         "heroDescription": "Seyahat Endüstrisi Profesyonelleri İçin Seçkin B2B Etkinliği. Ağ Oluşturma, İlham ve Yeni Fırsatlar.",
         "title": "TRAVEL CONNECT ANTALYA",
         "subtitle": "Sektörün Bağlantı Noktası",
@@ -31,7 +32,7 @@
         "faq": {
             "title": "Sıkça Sorulan Sorular",
             "q1": "Etkinlik tam olarak nerede yapılacak?",
-            "a1": "Etkinlik Antalya'nın seçkin turizm merkezi Belek'te gerçekleşecektir. Konaklama ve fuar alanı için 5 yıldızlı premium bir tesis seçilecek olup, detaylar katılımcılarımıza duyurulacaktır.",
+            "a1": "Etkinlik Antalya'da gerçekleşecektir. Konaklama ve fuar alanı için 5 yıldızlı premium bir tesis seçilecek olup, detaylar katılımcılarımıza duyurulacaktır.",
             "q2": "Kimler katılabilir?",
             "a2": "Etkinliğimiz sadece seyahat acenteleri, tur operatörleri, otel temsilcileri ve havacılık sektörü profesyonellerine özeldir.",
             "q3": "Katılım ücretli mi?",
@@ -122,14 +123,14 @@
             "day3Event2": "Kapanış Öğle Yemeği",
             "day3Event3": "Antalya Şehir Turu (Opsiyonel)"
         },
-        "whyApril": {
-            "title": "Neden Nisan Ayı?",
+        "whyNovember": {
+            "title": "Neden Kasım Ayı?",
             "item1Title": "Optimum Zamanlama",
-            "item1Desc": "Seyahat takviminde hazırlıklar için en verimli dönem.",
+            "item1Desc": "Seyahat takviminde gelecek sezon hazırlıkları için en verimli dönem.",
             "item2Title": "Fuar Çakışmaları",
             "item2Desc": "Büyük dünya fuarları ile çakışmaları önleyen stratejik tarih.",
             "item3Title": "İdeal İklim",
-            "item3Desc": "Antalya'nın en konforlu havasında networking keyfi."
+            "item3Desc": "Antalya'nın ılıman havasında networking keyfi."
         }
     },
     "PartnershipPage": {
@@ -217,7 +218,7 @@
     },
     "Metadata": {
         "title": "Travel Connect Antalya | B2B Seyahat Endüstrisi Buluşması",
-        "description": "Seyahat profesyonelleri için seçkin B2B etkinliği. Belek, Antalya'da yeni iş ortaklıkları ve networking fırsatları.",
+        "description": "Seyahat profesyonelleri için seçkin B2B etkinliği. 5-8 Kasım 2026, Antalya'da yeni iş ortaklıkları ve networking fırsatları.",
         "aboutTitle": "Hakkımızda | Travel Connect Antalya",
         "participantsTitle": "Katılımcılar | Travel Connect Antalya",
         "programTitle": "Program | Travel Connect Antalya",
